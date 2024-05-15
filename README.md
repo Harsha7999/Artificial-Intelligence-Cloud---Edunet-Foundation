@@ -8,7 +8,7 @@ This analysis explores how sentiment distribution (positive, negative, neutral) 
 
 **Preprocessing**: Cleaning the data involves removing irrelevant information like URLs, usernames, and hashtags. Libraries like NLTK (Python) can be used for tokenization (splitting text into words) and stop-word removal (common words like "the," "a").<br>
 
-**Sentiment Analysis:** We employ AI techniques to classify tweets as positive, negative, or neutral. Popular AI models for sentiment analysis include:<br>
+**Sentiment Analysis:** We employ AI techniques to classify tweets as positive, negative, or neutral. Popular AI models for sentiment analysis include: <br>
 
 **Lexicon-Based Approach**: Assigns sentiment scores to words based on pre-built dictionaries.<br>
 **Machine Learning Approach:** Trains a model on labeled data (tweets with known sentiment) to classify new tweets. Cloud platforms like Google AI Platform or Amazon SageMaker can be used to train and deploy these models.<br>
@@ -19,11 +19,11 @@ This analysis explores how sentiment distribution (positive, negative, neutral) 
 **Expected Outcomes:** <br>
 
 Sentiment Distribution: The analysis will reveal the overall sentiment towards the chosen topic. A high percentage of positive tweets might indicate public approval, while negative tweets could highlight concerns.
-Frequent Words: Analyzing high-frequency words within each sentiment category can offer insights into the specific topics and emotions associated with positive, negative, and neutral reactions.<br>
--**Positive Tweets**: Words like "happy," "excited," "great" could indicate positive reception.<br>
--**Negative Tweets**: Words like "sad," "angry," "disappointed" could highlight areas of concern.<br>
--**Neutral Tweets**: Words with less emotional connotation might dominate this category.<br>
--**Benefits of AI and Cloud:** <br>
+Frequent Words: Analyzing high-frequency words within each sentiment category can offer insights into the specific topics and emotions associated with positive, negative, and neutral reactions. <br>
+- **Positive Tweets**: Words like "happy," "excited," "great" could indicate positive reception.<br>
+- **Negative Tweets**: Words like "sad," "angry," "disappointed" could highlight areas of concern.<br>
+- **Neutral Tweets**: Words with less emotional connotation might dominate this category.<br>
+- **Benefits of AI and Cloud:** <br>
 
 **Scalability:** Cloud platforms enable handling large datasets efficiently.<br>
 **Accuracy:** AI models can analyze vast amounts of data to identify sentiment with high accuracy.<br>
