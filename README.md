@@ -11,10 +11,10 @@ This analysis explores how sentiment distribution (positive, negative, neutral) 
 **Sentiment Analysis:** We employ AI techniques to classify tweets as positive, negative, or neutral. Popular AI models for sentiment analysis include:
 
 **Lexicon-Based Approach**: Assigns sentiment scores to words based on pre-built dictionaries.
-**Machine Learning Approach:** Trains a model on labeled data (tweets with known sentiment) to classify new tweets. Cloud platforms like Google AI Platform or Amazon SageMaker can be used to train and deploy these models.
-**Frequency Analysis:** We identify the most frequent words within each sentiment category (positive, negative, neutral). Libraries like WordCloud (Python) can be used to visualize these high-frequency words, providing a glimpse into the topics and emotions associated with each sentiment.
+**Machine Learning Approach:** Trains a model on labeled data (tweets with known sentiment) to classify new tweets. Cloud platforms like Google AI Platform or Amazon SageMaker can be used to train and deploy these models.</br>
+**Frequency Analysis:** We identify the most frequent words within each sentiment category (positive, negative, neutral). Libraries like WordCloud (Python) can be used to visualize these high-frequency words, providing a glimpse into the topics and emotions associated with each sentiment.</br>
 
-Neutral Prediction Plots: We can explore how well our AI model predicts neutral sentiment. Techniques like confusion matrices and classification reports can reveal the model's accuracy in classifying tweets as truly neutral.
+Neutral Prediction Plots: We can explore how well our AI model predicts neutral sentiment. Techniques like confusion matrices and classification reports can reveal the model's accuracy in classifying tweets as truly neutral.</br>
 
 **Expected Outcomes:**
 
