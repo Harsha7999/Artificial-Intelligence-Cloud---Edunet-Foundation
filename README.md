@@ -18,7 +18,7 @@ This analysis explores how sentiment distribution (positive, negative, neutral) 
 
 **Expected Outcomes:** <br>
 
-Sentiment Distribution: The analysis will reveal the overall sentiment towards the chosen topic. A high percentage of positive tweets might indicate public approval, while negative tweets could highlight concerns.
+**Sentiment Distribution:** The analysis will reveal the overall sentiment towards the chosen topic. A high percentage of positive tweets might indicate public approval, while negative tweets could highlight concerns.
 Frequent Words: Analyzing high-frequency words within each sentiment category can offer insights into the specific topics and emotions associated with positive, negative, and neutral reactions. <br>
 - **Positive Tweets**: Words like "happy," "excited," "great" could indicate positive reception.<br>
 - **Negative Tweets**: Words like "sad," "angry," "disappointed" could highlight areas of concern.<br>
