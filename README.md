@@ -40,7 +40,7 @@ This analysis explores how sentiment distribution (positive, negative, neutral) 
 
 ![download (4)](https://github.com/Harsha7999/Artificial-Intelligence-Cloud---Edunet-Foundation/assets/138028961/684de247-86f4-4466-96d8-c9124c4ca3ff)
 
-- **Confusion Matrix for Model Evaluation:** <br>
+**Confusion Matrix for Model Evaluation:** <br>
 
 The code creates and visualizes a confusion matrix to assess a Logistic Regression model's performance.<br>
 
@@ -49,22 +49,22 @@ The code creates and visualizes a confusion matrix to assess a Logistic Regressi
 - High values on the diagonal indicate good performance (correct predictions).<br>
 - Low values off-diagonal indicate the model is misclassifying data points.<br>
 - This analysis helps identify areas for improvement in the model's ability to distinguish between different categories.<br>
+
 ![download (5)](https://github.com/Harsha7999/Artificial-Intelligence-Cloud---Edunet-Foundation/assets/138028961/b7e9dded-fc68-4121-b13c-b74a317ea35f)
 
 
+**Benefits of AI and Cloud:** <br>
 
-- **Benefits of AI and Cloud:** <br>
-
-**Scalability:** Cloud platforms enable handling large datasets efficiently.<br>
-**Accuracy:** AI models can analyze vast amounts of data to identify sentiment with high accuracy.<br>
-**Efficiency:** Automation through AI reduces manual processing time.<br>
-**Insights:** Analyzing sentiment distribution and frequent words can provide valuable insights into public opinion.<br>
+- **Scalability:** Cloud platforms enable handling large datasets efficiently.<br>
+- **Accuracy:** AI models can analyze vast amounts of data to identify sentiment with high accuracy.<br>
+- **Efficiency:** Automation through AI reduces manual processing time.<br>
+- **Insights:** Analyzing sentiment distribution and frequent words can provide valuable insights into public opinion.<br>
 
 **Limitations and Future Directions:** <br>
 
-**Data Quality:** The analysis is dependent on the quality of the collected data. Biased or limited data can skew results.<br>
-**Model Accuracy**: AI models are not perfect, and misclassifications can occur. Further training and refinement are crucial.<br>
-**Beyond Basic Sentiment:** Sentiment analysis can be extended to identify specific emotions (joy, fear, etc.) for deeper understanding.<br>
+- **Data Quality:** The analysis is dependent on the quality of the collected data. Biased or limited data can skew results.<br>
+- **Model Accuracy**: AI models are not perfect, and misclassifications can occur. Further training and refinement are crucial.<br>
+- **Beyond Basic Sentiment:** Sentiment analysis can be extended to identify specific emotions (joy, fear, etc.) for deeper understanding.<br>
 
 **Conclusion:** <br>
 This analysis demonstrates how AI and Cloud technology can be harnessed to analyze sentiment distribution and frequent words in social media data. Identifying these patterns can provide valuable insights into public opinion, allowing organizations, policymakers, and researchers to make informed decisions.<br>
