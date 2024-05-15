@@ -26,9 +26,9 @@ Frequent Words: Analyzing high-frequency words within each sentiment category ca
 **Benefits of AI and Cloud:**<br>
 
 **Scalability:** Cloud platforms enable handling large datasets efficiently.<br>
-**Accuracy: **AI models can analyze vast amounts of data to identify sentiment with high accuracy.<br>
-**Efficiency:** Automation through AI reduces manual processing time.
-**Insights:** Analyzing sentiment distribution and frequent words can provide valuable insights into public opinion.
+**Accuracy:** AI models can analyze vast amounts of data to identify sentiment with high accuracy.<br>
+**Efficiency:** Automation through AI reduces manual processing time.<br>
+**Insights:** Analyzing sentiment distribution and frequent words can provide valuable insights into public opinion.<br>
 **Limitations and Future Directions:**<br>
 
 **Data Quality:** The analysis is dependent on the quality of the collected data. Biased or limited data can skew results.<br>
