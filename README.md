@@ -1,4 +1,4 @@
-# Sentiment Analysis Distribution in Tweets with AI and Cloud technologies 
+# Sentiment Analysis Distribution in Tweets using AI and Cloud technologies 
 
 This analysis explores how sentiment distribution (positive, negative, neutral) and frequent words within those categories can reveal insights from social media data. Here, we leverage the power of Artificial Intelligence (AI) for sentiment analysis and Cloud technology for scalable data processing.<br>
 
